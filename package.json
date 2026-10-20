@@ -1,0 +1,27 @@
+{
+  "name": "qufun",
+  "version": "1.0.0",
+  "description": "趣味分享平台，上传资源可以进行分享，下载。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balalawohu/qufun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/balalawohu/qufun/issues"
+  },
+  "homepage": "https://github.com/balalawohu/qufun#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.2.4",
+    "@commitlint/config-conventional": "^21.2.4",
+    "husky": "^9.1.7"
+  }
+}
